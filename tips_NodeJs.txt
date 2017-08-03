@@ -1,0 +1,17 @@
+[List functions]
+To type node to enter the NodeJS command mode
+$ node
+
+To type global then to list all the variables and functions to be useful:
+>global
+
+To type process to list all useful processes which are running
+>process
+
+
+[npm package search]
+https://www.npmjs.com/
+
+[NodeJS API]
+https://nodejs.org/api/
+
