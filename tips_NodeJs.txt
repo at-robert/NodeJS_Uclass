@@ -15,3 +15,16 @@ https://www.npmjs.com/
 [NodeJS API]
 https://nodejs.org/api/
 
+[How to debug]
+$ node inspect xx.js
+
+debug> list(10) # To list 10 lines in the code
+
+[To debug with Chrome browser]
+$ node --inspect-brk xx.js
+
+And then open Chrome browser and run the following link:
+chrome://inspect/device
+
+To click the tab:
+Open dedicated DevTools for Node
