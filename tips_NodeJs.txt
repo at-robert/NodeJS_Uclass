@@ -22,3 +22,38 @@ Useful module 'lodas'
 https://lodash.com/docs/4.17.4#uniq
 
 [NodeMom]
+[How to debug]
+$ node inspect xx.js
+
+debug> list(10) # To list 10 lines in the code
+
+[To debug with Chrome browser]
+$ node --inspect-brk xx.js
+
+And then open Chrome browser and run the following link:
+chrome://inspect/device
+
+To click the tab:
+Open dedicated DevTools for Node
+
+
+[Weather APP]
+Async
+http
+
+
+Call Stack
+Node APIs
+Callback Quene 
+
+* To use this web link and then add address string behine over a web browser to get JSON format data back
+https://maps.googleapis.com/maps/api/geocode/json?address=
+
+for examples:
+https://maps.googleapis.com/maps/api/geocode/json?address=23702%20Rockfield%20Blvd%20Lake%20Forest%20CA%2092630
+
+* For processing URL strings
+encodeURIComponent()
+decodeURTComponent()
+
+* Error handling:
