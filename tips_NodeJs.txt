@@ -38,3 +38,15 @@ http
 Call Stack
 Node APIs
 Callback Quene 
+
+* To use this web link and then add address string behine over a web browser to get JSON format data back
+https://maps.googleapis.com/maps/api/geocode/json?address=
+
+for examples:
+https://maps.googleapis.com/maps/api/geocode/json?address=23702%20Rockfield%20Blvd%20Lake%20Forest%20CA%2092630
+
+* For processing URL strings
+encodeURIComponent()
+decodeURTComponent()
+
+* Error handling:

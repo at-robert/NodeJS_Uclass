@@ -1,0 +1,9 @@
+* example command line:
+node app.js -a '23702 Rockfield Blvd Lake Forest CA 92630'
+
+
+* Weather web site:
+forecast.io
+
+To register for forecast io developer
+https://darksky.net/dev
