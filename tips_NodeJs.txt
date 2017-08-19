@@ -28,3 +28,13 @@ chrome://inspect/device
 
 To click the tab:
 Open dedicated DevTools for Node
+
+
+[Weather APP]
+Async
+http
+
+
+Call Stack
+Node APIs
+Callback Quene 
