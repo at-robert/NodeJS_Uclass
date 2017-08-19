@@ -15,3 +15,10 @@ https://www.npmjs.com/
 [NodeJS API]
 https://nodejs.org/api/
 
+[3-3 To require function and variables from another file]
+
+[3-4] To require for 3rd party modules
+Useful module 'lodas'
+https://lodash.com/docs/4.17.4#uniq
+
+[NodeMom]
