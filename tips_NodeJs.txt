@@ -50,3 +50,9 @@ encodeURIComponent()
 decodeURTComponent()
 
 * Error handling:
+
+
+[Promises]
+For handling different result situations
+
+$ npm install axios
