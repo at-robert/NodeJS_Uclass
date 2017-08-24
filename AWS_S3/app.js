@@ -36,6 +36,6 @@ request({
   } else if (response.statusCode === 400) {
     console.log('Unable to fetch s3.');
   } else if (response.statusCode === 200) {
-    console.log(body.content.LED);
+    console.log(body);
   }
 });

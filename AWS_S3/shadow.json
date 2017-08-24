@@ -1,0 +1,10 @@
+{
+    "Device1" : {
+        "LED" : 1,
+        "LED1" : 2
+    },
+    "Device2" : {
+        "Batt" : 55,
+        "Button1" : 1
+    }
+}

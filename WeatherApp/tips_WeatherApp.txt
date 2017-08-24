@@ -1,3 +1,6 @@
+* module "request" should be installed in advance
+$npm install request --save
+
 * example command line:
 node app.js -a '23702 Rockfield Blvd Lake Forest CA 92630'
 
