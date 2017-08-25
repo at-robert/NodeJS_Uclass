@@ -3,3 +3,8 @@ npm install s3-nodejs-sample --save
 
 Web link:
 https://docs.aws.amazon.com/sdk-for-javascript/v2/developer-guide/s3-example-creating-buckets.html
+
+
+[Feed link]
+http://feeds.howtogeek.com/HowToGeek
+https://s3.amazonaws.com/amt.robertlo.test/multiText.json

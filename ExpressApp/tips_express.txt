@@ -1,0 +1,14 @@
+[Web link]
+expressjs.com
+handlebarsjs.com
+npmjs.com/package/hbs
+
+[Test commands]
+$ node server.js
+
+Web browser:
+localhost:3000/shadow
+
+
+[Install hbs]
+npm install hbs@4.0.0 --save

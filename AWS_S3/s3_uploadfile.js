@@ -1,7 +1,7 @@
 // Load the AWS SDK for Node.js
 var AWS = require('aws-sdk');
 // Load credentials and set region from JSON file
-AWS.config.loadFromPath('/Users/mac/Documents/AWS_CERT/config.json');
+AWS.config.loadFromPath('/Users/robertlo/Documents/AWS_CERT/config.json');
 
 // Create S3 service object
 // s3 = new AWS.S3({apiVersion: '2006-03-01'});
