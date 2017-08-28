@@ -19,6 +19,9 @@ app.get('/users', (req, res) => {
   }, {
     name: 'Jen',
     age: 26
+  },{
+    name: 'robert',
+    age: 25
   }]);
 });
 // GET /users

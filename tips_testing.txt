@@ -16,3 +16,8 @@ $ nodemon --exec 'npm test'
 
 * To install
 $ npm i expect --save-dev
+
+[Supertest for testing expess library]
+https://github.com/visionmedia/supertest
+
+$ npm i supertest --save-dev

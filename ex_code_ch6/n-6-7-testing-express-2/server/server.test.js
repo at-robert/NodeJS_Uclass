@@ -28,5 +28,11 @@ it('should return my user object', (done) => {
         age: 25
       });
     })
+    .expect((res) => {
+      expect(res.body).toInclude({
+        name: 'robert',
+        age: 25
+      });
+    })
     .end(done);
 });
