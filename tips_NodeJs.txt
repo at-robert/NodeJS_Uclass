@@ -63,3 +63,9 @@ decodeURTComponent()
 For handling different result situations
 
 $ npm install axios
+
+[The purpose of package.json]
+This file is used to record the dependency modules and test script. 
+When downloading those test example projects for the first time, you should switch to the folder and then run the command 
+$ npm i   (short for npm install)
+To install those dependency modules. 

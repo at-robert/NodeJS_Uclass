@@ -21,3 +21,10 @@ $ npm i expect --save-dev
 https://github.com/visionmedia/supertest
 
 $ npm i supertest --save-dev
+
+[describe]
+The main function of describe to group test items together
+
+[Spy]
+
+$ npm i rewire --save-dev
