@@ -1,0 +1,18 @@
+[Mocha and basic test]
+
+https://mochajs.org/
+
+* To save the module for development only (Heroku won't install this module but it will be installed locally)
+$ npm i mocha --save-dev
+
+* To start the mocha test script in the package.json
+$ npm test
+
+$ nodemon --exec 'npm test'
+
+
+[Asserion library]
+* mjackson github web example for expect()
+
+* To install
+$ npm i expect --save-dev
