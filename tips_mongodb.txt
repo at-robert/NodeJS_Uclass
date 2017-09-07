@@ -1,0 +1,25 @@
+[Web link]
+https://www.mongodb.com
+
+* To download the right version of mongodb and extract it into 
+~/mongo 
+* To create a folder ~/mongo-data for storing the database
+
+[Commands to run]
+1. To switch ~/mongo/bin
+2. To run this command to start the database server
+$ ./mongod --dbpath ~/mongo-data
+
+3. To run this command to enter console
+$ ./mongo
+
+4. Execrise:
+// To insert a data
+> db.Todos.insert({text:'Film a new course'})
+
+// To search for data
+> db.Todos.find()
+
+5. Graphic user interface for control mongo db
+//Web link:
+https://robomongo.org/download
