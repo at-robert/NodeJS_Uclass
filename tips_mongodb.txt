@@ -23,3 +23,17 @@ $ ./mongo
 5. Graphic user interface for control mongo db
 //Web link:
 https://robomongo.org/download
+
+NOTE:
+After installing the Robomongo, I created a alias "robomo" to start the app
+
+6. Node for MongoDB 
+https://github.com/mongodb/node-mongodb-native
+
+MongoDB Node.JS Driver
+
+what	        where
+documentation	http://mongodb.github.io/node-mongodb-native/
+api-doc	        http://mongodb.github.io/node-mongodb-native/2.2/api/
+source	        https://github.com/mongodb/node-mongodb-native
+mongodb	        http://www.mongodb.org/ 
