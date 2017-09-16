@@ -8,7 +8,7 @@ https://www.mongodb.com
 [Commands to run]
 1. To switch ~/mongo/bin
 2. To run this command to start the database server
-$ ./mongod --dbpath ~/mongo-data
+$ ~/mongo/bin/mongod --dbpath ~/mongo-data
 
 3. To run this command to enter console
 $ ./mongo
@@ -37,3 +37,18 @@ documentation	http://mongodb.github.io/node-mongodb-native/
 api-doc	        http://mongodb.github.io/node-mongodb-native/2.2/api/
 source	        https://github.com/mongodb/node-mongodb-native
 mongodb	        http://www.mongodb.org/ 
+
+
+7. Mongoose 
+Web link: http://mongoosejs.com/
+install: 
+$ npm i mongoose@4.5.9 --save
+
+8. Postman
+It's important for creating REST API
+Web link: https://www.getpostman.com/
+
+// To go to Chrome app store to add Postman app
+
+
+https://httpstatuses.com/

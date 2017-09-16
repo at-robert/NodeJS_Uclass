@@ -38,11 +38,19 @@ var User = mongoose.model('User', {
     required: true,
     trim: true,
     minlength: 1
+  },
+  completed: {
+    type: Boolean,
+    default: false
+  },
+  completedAt: {
+    type: Number,
+    default: null
   }
 });
 
 var user = new User({
-  email: 'andrew@example.com   '
+  email: 'robert.lo@amtran.com.tw'
 });
 
 user.save().then((doc) => {
