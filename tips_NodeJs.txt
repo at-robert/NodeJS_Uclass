@@ -44,7 +44,7 @@ http
 
 Call Stack
 Node APIs
-Callback Quene 
+Callback Quene
 
 * To use this web link and then add address string behine over a web browser to get JSON format data back
 https://maps.googleapis.com/maps/api/geocode/json?address=
@@ -65,7 +65,11 @@ For handling different result situations
 $ npm install axios
 
 [The purpose of package.json]
-This file is used to record the dependency modules and test script. 
-When downloading those test example projects for the first time, you should switch to the folder and then run the command 
+This file is used to record the dependency modules and test script.
+When downloading those test example projects for the first time, you should switch to the folder and then run the command
 $ npm i   (short for npm install)
-To install those dependency modules. 
+To install those dependency modules.
+
+[JWT - Json web token]
+In the following website, you can paste and verify the encode sha. 
+https://jwt.io/

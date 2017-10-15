@@ -1,0 +1,26 @@
+[More things to add for Heroku environment]
+
+1. Port setting:
+const port = process.env.PORT || 3000;
+
+2. package.json:
+"start": "node server/server.js",
+
+  "engines": {
+    "node": "6.2.2"
+  },
+
+3. Heroku add-on:
+mLab MongoDB
+
+4.
+a. To login in heroku
+# heroku login
+
+b. To create an app
+$ heroku create nojstodo
+
+https://nojstodo.herokuapp.com/ | https://git.heroku.com/nojstodo.git
+
+c. To reply for add-on
+$ heroku addons:create mongolab:sandbox
