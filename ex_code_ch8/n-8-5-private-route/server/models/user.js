@@ -17,7 +17,7 @@ var UserSchema = new mongoose.Schema({
   },
   password: {
     type: String,
-    require: true,
+    required: true,
     minlength: 6
   },
   tokens: [{
@@ -70,4 +70,4 @@ UserSchema.statics.findByToken = function (token) {
 
 var User = mongoose.model('User', UserSchema);
 
-module.exports = {User}
+module.exports = {User};
